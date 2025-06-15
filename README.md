@@ -1,5 +1,6 @@
-# GPT2-Text-Generation & Image-Generation
-*Prodigy Infotech Internship*
+# Prodigy Infotech Internship
+ *GPT2-Text-Generation & Image-Generation*
+
 
 **Task 1 - GPT-2 Text Generation | Task 2 - Image Generation**
 ---
