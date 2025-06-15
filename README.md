@@ -24,7 +24,7 @@ To generate coherent and contextually relevant text using the GPT-2 language mod
 
 * Used Google Colab to run GPT-2
 * Installed and loaded the model using Hugging Face’s `pipeline`
-* Provided prompt: `"Once upon a time, there was a girl named Shreya"` 😄
+* Provided prompt: `"Once upon a time, there was a girl named Shreya"` 
 * Generated AI-written text
 
 ### 🧠 Skills Gained
@@ -46,7 +46,7 @@ To generate creative images from text prompts using a pre-trained model (Stable 
 
 * Used Google Colab for running image generation code
 * Provided a custom prompt as a car enthusiast:
-  *"A futuristic city with flying cars"* 🚗✨
+  *"A futuristic city with flying cars"* 
 * Saved output as: `futuristic_city_flying_cars.png`
 
 ### 🧠 Skills Gained
