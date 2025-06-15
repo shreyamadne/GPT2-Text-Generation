@@ -43,6 +43,7 @@ Running with GPU (T4) in Google Colab
 
 📁 Files:
 task2_image_generation.ipynb - Colab notebook for Task 2
+
 Image outputs - generated_futuristic_city.png
 
 🌟 Tools & Libraries Used:
