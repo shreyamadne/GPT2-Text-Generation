@@ -1,68 +1,58 @@
-# Prodigy Infotech Internship
- *GPT2-Text-Generation & Image-Generation*
+🚀 Generative AI Internship — Prodigy Infotech
+This repository contains my work for the Generative AI internship, covering text and image generation tasks using pretrained models.
 
+📌 Task 1: Text Generation using GPT-2
+In this task, I explored GPT-2, a transformer model developed by OpenAI, for generating human-like text based on a given prompt.
+I used the transformers library from Hugging Face in Google Colab.
 
-**Task 1 - GPT-2 Text Generation | Task 2 - Image Generation**
----
+💬 Prompt Example:
+"Once upon a time, there was a girl named Shreya..."
 
-## 🚀 Overview
+✨ AI Response (Example Output):
+"She was beautiful. She had a beautiful face. She was part of a beautiful family..."
 
-This project is part of my **Generative AI Internship** at *Prodigy Infotech*.
-It includes:
+🧠 What I Learned:
+Basics of GPT-2 and text generation
 
-* **Task 1:** Text generation using GPT-2
-* **Task 2:** Image generation using Stable Diffusion
+Using Hugging Face pipelines
 
----
+Running AI models on Google Colab
 
-## ✨ Task 1 - GPT-2 Text Generation
+How to upload code and notebooks to GitHub
 
-### 🔍 Objective
+📁 Files:
+task1_gpt2_text_generation.ipynb — Colab notebook for Task 1
 
-To generate coherent and contextually relevant text using the GPT-2 language model from Hugging Face's `transformers` library.
+📌 Task 2: Image Generation using Pretrained Models
+In this task, I explored Stable Diffusion to generate images from text prompts using pretrained models.
+I worked with Hugging Face’s diffusers library in Google Colab.
 
-### 💡 What I Did
+💬 Prompt Example:
+1️⃣ "A futuristic city with flying cars"
 
-* Used Google Colab to run GPT-2
-* Installed and loaded the model using Hugging Face’s `pipeline`
-* Provided prompt: `"Once upon a time, there was a girl named Shreya"` 
-* Generated AI-written text
+🧠 What I Learned:
+How image generation models like Stable Diffusion work
 
-### 🧠 Skills Gained
+How to create images from text prompts
 
-* Basics of Transformer models (GPT-2)
-* Text generation using Hugging Face
-* Python + Google Colab
-* Uploading projects to GitHub
+Using Hugging Face’s diffusers
 
----
+Running with GPU (T4) in Google Colab
 
-## 🖼️ Task 2 - Image Generation
+📁 Files:
+task2_image_generation.ipynb - Colab notebook for Task 2
 
-### 🔍 Objective
+Image outputs - generated_futuristic_city.png
 
-To generate creative images from text prompts using a pre-trained model (Stable Diffusion).
+🌟 Tools & Libraries Used:
+Python
 
-### 💡 What I Did
+Google Colab
 
-* Used Google Colab for running image generation code
-* Provided a custom prompt as a car enthusiast:
-  *"A futuristic city with flying cars"* 
-* Saved output as: `futuristic_city_flying_cars.png`
+Hugging Face (transformers, diffusers)
 
-### 🧠 Skills Gained
+Stable Diffusion, GPT-2
 
-* Basics of text-to-image generation
-* Hands-on with Stable Diffusion
-* Managing Colab notebooks + outputs
+GitHub for version control
 
----
-
-## 📂 Files
-
-* `task1_gpt2_text_generation.ipynb` — Notebook for Task 1
-* `Task2_Image_Generation.ipynb` — Notebook for Task 2
-* `futuristic_city_flying_cars.png` — Example generated image
-* `README.md` — Project description
-
-✅ *Tasks completed as part of the Generative AI Internship at Prodigy Infotech*
+👉 Feel free to explore the notebooks and outputs in this repository!
