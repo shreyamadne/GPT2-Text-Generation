@@ -14,8 +14,11 @@ I used the transformers library from Hugging Face in Google Colab.
 🧠 What I Learned:
 
 Basics of GPT-2 and text generation
+
 Using Hugging Face pipelines
+
 Running AI models on Google Colab
+
 How to upload code and notebooks to GitHub
 
 📁 Files:
@@ -31,8 +34,11 @@ I worked with Hugging Face’s diffusers library in Google Colab.
 🧠 What I Learned:
 
 How image generation models like Stable Diffusion work
+
 How to create images from text prompts
+
 Using Hugging Face’s diffusers
+
 Running with GPU (T4) in Google Colab
 
 📁 Files:
