@@ -49,9 +49,13 @@ Image outputs - generated_futuristic_city.png
 🌟 Tools & Libraries Used:
 
 Python
+
 Google Colab
+
 Hugging Face (transformers, diffusers)
+
 Stable Diffusion, GPT-2
+
 GitHub for version control
 
 👉 Feel free to explore the notebooks and outputs in this repository!
