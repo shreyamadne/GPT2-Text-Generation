@@ -24,6 +24,8 @@ How to upload code and notebooks to GitHub
 📁 Files:
 task1_gpt2_text_generation.ipynb — Colab notebook for Task 1
 
+---
+
 📌 Task 2: Image Generation using Pretrained Models
 In this task, I explored Stable Diffusion to generate images from text prompts using pretrained models.
 I worked with Hugging Face’s diffusers library in Google Colab.
