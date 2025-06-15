@@ -1,4 +1,4 @@
-🚀 Generative AI Internship — Prodigy Infotech
+# Generative AI Internship — Prodigy Infotech
 This repository contains my work for the Generative AI internship, covering text and image generation tasks using pretrained models.
 
 📌 Task 1: Text Generation using GPT-2
