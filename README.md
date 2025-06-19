@@ -85,7 +85,11 @@ GitHub for version control
 ---
 
 💡 How to Run on Your PC
+
 ✅ Open the .ipynb files in Google Colab or Jupyter Notebook
+
 ✅ Run the cells step-by-step
+
 ✅ For Task 2: Ensure GPU runtime if using Colab (Runtime > Change runtime type > GPU)
+
 ✅ You can modify the text prompts or code and re-run
