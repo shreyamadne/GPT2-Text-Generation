@@ -22,6 +22,8 @@ Running AI models on Google Colab
 
 task1_gpt2_text_generation.ipynb — Colab notebook for Task 1
 
+---
+
 📌 Task 2: Image Generation using Pre-trained Models
 In this task, I explored Stable Diffusion to generate images from text prompts using the diffusers library from Hugging Face.
 
@@ -44,6 +46,8 @@ task2_image_generation.ipynb — Colab notebook for Task 2
 
 Generated images (e.g., task2_image_futuristic_city_flying_cars.png)
 
+---
+
 📌 Task 3: Text Generation using Markov Chains
 In this task, I generated text using Markov Chains, building simple probabilistic models from input text.
 
@@ -64,6 +68,8 @@ Running in Google Colab / Jupyter Notebook
 📁 Files:
 
 task3_markov_text_generation.ipynb — Notebook for Task 3
+
+---
 
 🌟 Tools & Libraries Used
 Python
