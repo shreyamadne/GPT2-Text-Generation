@@ -2,6 +2,7 @@
 This repository contains my work for the Generative AI internship, covering text generation, image generation, and Markov Chain-based text generation using Python and pre-trained models.
 
 📌 Task 1: Text Generation using GPT-2
+
 In this task, I explored GPT-2, a transformer model developed by OpenAI, for generating human-like text from a given prompt using the transformers library.
 
 💬 Prompt Example:
@@ -25,6 +26,7 @@ task1_gpt2_text_generation.ipynb — Colab notebook for Task 1
 ---
 
 📌 Task 2: Image Generation using Pre-trained Models
+
 In this task, I explored Stable Diffusion to generate images from text prompts using the diffusers library from Hugging Face.
 
 💬 Prompt Example:
@@ -49,6 +51,7 @@ Generated images (e.g., task2_image_futuristic_city_flying_cars.png)
 ---
 
 📌 Task 3: Text Generation using Markov Chains
+
 In this task, I generated text using Markov Chains, building simple probabilistic models from input text.
 
 💬 Input Example:
@@ -72,6 +75,7 @@ task3_markov_text_generation.ipynb — Notebook for Task 3
 ---
 
 🌟 Tools & Libraries Used
+
 Python
 
 Google Colab / Jupyter Notebook
