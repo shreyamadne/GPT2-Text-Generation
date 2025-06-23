@@ -103,6 +103,9 @@ In this task, I applied **Neural Style Transfer** to combine the content of one 
 ## 💡 How to Run
 
 ✅ Open the `.ipynb` files in **Google Colab** or **Jupyter Notebook**
+
 ✅ Run the cells step-by-step
+
 ✅ For Task 2: Set runtime to **GPU** in Colab (*Runtime > Change runtime type > GPU*)
+
 ✅ Modify prompts or code to experiment further
